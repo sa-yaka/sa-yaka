@@ -5,7 +5,11 @@
 
 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=sa-yaka&show_icons=true&show_icons=true&count_private=true" />
+    <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=sa-yaka&show_icons=true&show_icons=true&count_private=true" />
+<p />
 
 
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
+
+
+
+<sub>Pictures to: [かすみ](https://www.pixiv.net/artworks/92674856)
