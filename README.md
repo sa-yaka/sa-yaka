@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ### This is Fernando Roldán!
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/sa-yaka/sa-yaka/blob/main/user.png" width="50%" height="auto" />
 
 
 <p>
