@@ -15,4 +15,4 @@
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <sub>
-   Pictures to:  <a href="https://www.pixiv.net/artworks/92674856">かすみ</a>
+ Pictures to:  <a href="https://www.pixiv.net/artworks/92674856">かすみ</a>
